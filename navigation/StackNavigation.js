@@ -3,6 +3,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { TabNav } from './TabNavigation';
 import PokemonListScreen from '../screens/PokemonListScreen';
 import PokemonDetailScreen from '../screens/PokemonDetailScreen';
+import FavoriteScreen from '../screens/FavoriteScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -14,6 +15,10 @@ const StackNav = () => {
                 name="Home"
                 options={{ headerShown: false }}
                 component={TabNav}
+            />
+            <Stack.Screen
+                name='favorite list'
+                component={FavoriteScreen}
             />
             <Stack.Screen
                 name='Pokemon list'
