@@ -1,6 +1,6 @@
 ![logo](https://github.com/jonneaspinen/PokeSheet/blob/main/assets/PokeSheet.png?raw=true)
 # PokeSheet
-App for browsing pokemon.
+***App for browsing pokemon.***
 - View Pokemon abilities!
 - Save your favorites on a list!
 
@@ -15,3 +15,11 @@ App for browsing pokemon.
 <img src="https://qr.expo.dev/expo-go?owner=jonneaspinen&slug=pokesheet-demo&releaseChannel=default&host=exp.host" width="300" height="300">
 
 <img src="https://github.com/jonneaspinen/PokeSheet/blob/main/assets/flavorElement.png?raw=true" width="1000" height="50">
+
+### Technicalities
+- Built on top of [Expo](https://expo.dev/) platform (React Native).
+- The app uses:
+    - [PokéAPI](https://pokeapi.co/) for Pokemon data.
+    - [SQLite](https://www.sqlite.org/index.html) for storing favorited Pokemon.
+    - [React Native Elements](https://reactnativeelements.com/) UI Toolkit for some elements.
+    - [Ionicons](https://ionic.io/ionicons) for icons.
