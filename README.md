@@ -20,9 +20,9 @@
 - Built on top of [Expo](https://expo.dev/) platform (React Native).
 - The app uses:
     - Built-in components of [React native](https://reactnative.dev/).
-    - [PokéAPI](https://pokeapi.co/) for Pokemon data.
+    - [PokéAPI](https://pokeapi.co/) for Pokemon data (including pokemon pictures).
     - [SQLite](https://www.sqlite.org/index.html) for storing favorited Pokemon.
     - [React Native Elements](https://reactnativeelements.com/) UI Toolkit for some elements.
     - [Ionicons](https://ionic.io/ionicons) for icons.
     - [Collapsible-list](https://github.com/hamidhadi/react-native-collapsible-list) for detail view.
-    - [Gimp](https://github.com/jonneaspinen/PokeSheet/blob/main/README.md) for creating the logo and images.
+    - [Gimp](https://github.com/jonneaspinen/PokeSheet/blob/main/README.md) for creating the logo and 'separator' images.
