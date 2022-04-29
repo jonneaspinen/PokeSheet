@@ -23,20 +23,63 @@ export default StyleSheet.create({
   pokemonTitle: {
     fontSize: 25,
     textAlign: 'center',
-    alignSelf: 'center',
     backgroundColor: 'lightgray',
     width: 'auto',
     padding: 10,
-    borderRadius: 10
+    borderRadius: 10,
+    marginLeft: 30,
+    flex: 3,
   },
   favoriteTitle: {
     fontSize: 25,
     width: 'auto',
     margin: 10,
   },
-  detailTitle: {
+  abilitiesTitle: {
     fontSize: 20,
-    textDecorationLine: 'underline',
+    borderRadius: 15,
+    padding: 10,
+    alignSelf: 'flex-start',
+    color: 'white',
+    backgroundColor: '#db4b3d',
+    fontWeight: 'bold',
+    marginTop: 5
+  },
+  movesTitle: {
+    fontSize: 20,
+    borderRadius: 15,
+    padding: 10,
+    alignSelf: 'flex-start',
+    color: 'white',
+    backgroundColor: '#e8b527',
+    fontWeight: 'bold',
+    marginTop: 5
+  },
+  statsTitle: {
+    fontSize: 20,
+    borderRadius: 15,
+    padding: 10,
+    alignSelf: 'flex-start',
+    color: 'white',
+    backgroundColor: '#2e6ec7',
+    fontWeight: 'bold',
+    marginTop: 5
+  },
+  typesTitle: {
+    fontSize: 20,
+    borderRadius: 15,
+    padding: 10,
+    alignSelf: 'flex-start',
+    color: 'white',
+    backgroundColor: '#1cad1e',
+    fontWeight: 'bold',
+    marginTop: 5
+  },
+  detailListText:{
+    fontSize:16
+  },
+  detailListBox:{
+    padding: 10
   },
   pokemonImage: {
     width: win.width,
@@ -62,7 +105,7 @@ export default StyleSheet.create({
     borderWidth: 1
   },
   horizontalRow: {
-    flexDirection: 'row'
+    flexDirection: 'row',
   },
   horizontalLeft: {
     flex: 3,

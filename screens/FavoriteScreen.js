@@ -56,7 +56,7 @@ const FavoriteScreen = ({ navigation }) => {
                                 name: 'trash',
                                 type: 'ionicon',
                                 size: 20,
-                                color: 'firebrick',
+                                color: '#d11b0f',
                             }}
                             buttonStyle={{
                                 backgroundColor: 'transparent',
