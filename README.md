@@ -12,7 +12,7 @@
     - [iOS App Store](https://apps.apple.com/us/app/expo-go/id982107779)
 
 2. Scan this QR code.
-<img src="https://qr.expo.dev/expo-go?owner=jonneaspinen&slug=pokesheet-demo&releaseChannel=default&host=exp.host" width="300" height="300">
+<img src="https://qr.expo.dev/expo-go?owner=jonneaspinen&slug=pokesheet&releaseChannel=default&host=exp.host" width="300" height="300">
 
 <img src="https://github.com/jonneaspinen/PokeSheet/blob/main/assets/flavorElement.png?raw=true" width="1000" height="50">
 
