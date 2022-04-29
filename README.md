@@ -25,3 +25,4 @@
     - [React Native Elements](https://reactnativeelements.com/) UI Toolkit for some elements.
     - [Ionicons](https://ionic.io/ionicons) for icons.
     - [Collapsible-list](https://github.com/hamidhadi/react-native-collapsible-list) for detail view.
+    - [Gimp](https://github.com/jonneaspinen/PokeSheet/blob/main/README.md) for creating the logo and images.
