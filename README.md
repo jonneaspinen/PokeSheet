@@ -19,6 +19,7 @@
 ### Technicalities
 - Built on top of [Expo](https://expo.dev/) platform (React Native).
 - The app uses:
+    - Built-in components of [React native](https://reactnative.dev/).
     - [PokéAPI](https://pokeapi.co/) for Pokemon data.
     - [SQLite](https://www.sqlite.org/index.html) for storing favorited Pokemon.
     - [React Native Elements](https://reactnativeelements.com/) UI Toolkit for some elements.
